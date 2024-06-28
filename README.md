@@ -1,3 +1,5 @@
+### This package is a fork of the original!
+Original can be found at: [https://github.com/QUVA-Lab/escnn](https://github.com/QUVA-Lab/escnn)
 
 E(n)-equivariant Steerable CNNs (*escnn*)
 --------------------------------------------------------------------------------
